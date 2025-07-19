@@ -18,26 +18,20 @@ This Terraform configuration automates the deployment of a simple web applicatio
 
 ## How to run your configurations
 
-### 1. Clone the repository
 
-```bash
-git clone https://github.com/DhruvPatel-30/Practical-Lab_8_PROG8830.git
-cd Practical-Lab_8_PROG8830
-```
-
-### 2. Initialize Terraform
+### 1. Initialize Terraform
 
 ```bash
 terraform init
 ```
 
-### 3. Plan the deployment
+### 2. Plan the deployment
 
 ```bash
 terraform plan
 ```
 
-### 4. Apply the configuration
+### 3. Apply the configuration
 
 ```bash
 terraform apply
